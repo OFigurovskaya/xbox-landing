@@ -6,7 +6,7 @@ $('.homePage__carousel__slider').slick({
     slidesToScroll: 1,
     easing: 'ease',
     infinite: true,
-    autoplay: true,
+    autoplay: false,
     autoPlaySpeed: 1000,
     touchTreshHold: 15,
     waitForAnimate: false,
