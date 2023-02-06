@@ -17,7 +17,7 @@ $('.homePage__carousel__slider').slick({
 
 $(document).ready(function() {
     $('.homePage__exclusive__slider').slick({
-        slidesToShow: 3.95,
+        slidesToShow: 4,
         arrows: true,
         dots: false,
         slidesToScroll: 1,
